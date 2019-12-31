@@ -10,3 +10,4 @@ Improvements:
  - [ ] Add more commands
  - [ ] Refactor bot code
  - [ ] Investigate how use a chatbot name not my account
+ - [ ] Make a simple api for connection about others channels (?)
